@@ -1,8 +1,8 @@
 ## WhatsApp Bot
 
-තාම විඩියෝ එක බැලුවේ නැත්නම් ෆොටෝ එක උඩ touch කරන්න
+තාම විඩියෝ එක බැලුවේ නැත්නම් ෆොටෝ එක touch කරන්න
 
-<a href="http://t.me/by_sstp">
+<a href="https://youtu.be/OWMvCxIrAXQ">
   <img align="middle" width="4000px" src="https://github.com/John-kener/John-kener/blob/main/images%20(8)-1.jpg" />
 </a>
 
