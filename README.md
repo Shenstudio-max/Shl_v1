@@ -3,7 +3,7 @@
 තාම විඩියෝ එක බැලුවේ නැත්නම් ෆොටෝ එක touch කරන්න
 
 <a href="https://youtu.be/OWMvCxIrAXQ">
-  <img align="middle" width="4000px" src="https://github.com/John-kener/John-kener/blob/main/images%20(8)-1.jpg" />
+  <img align="middle" width="4000px" src="https://github.com/John-kener/Shl_v1/blob/main/Photo_1613125187632.png" />
 </a>
 
 ### INSTALLATION FOR TERMUX USERS
